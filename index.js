@@ -14,7 +14,7 @@ const userQuestions = [
   {
     type: "input",
     name: "gitHub",
-    message: "Enter your GutHub username:",
+    message: "Enter your GitHub username:",
   },
   
   {
@@ -25,37 +25,37 @@ const userQuestions = [
 
   {
     type: "input",
-    name: "projectName",
+    name: "title",
     message: "What is the title of your project?",
   },
 
   {
     type: "input",
-    name: "projectDescription",
+    name: "description",
     message: "Please write a brief description of your project:",
   },
     
   {
     type: "input",
-    name: "installationInstructions",
+    name: "installation",
     message: "What are the instructions for installation?:",
   },
 
   {
     type: "input",
-    name: "projectUsage",
+    name: "usage",
     message: "What are the instructions for usage?:",
   },
   
   {
     type: "input",
-    name: "projectContributing",
+    name: "contributing",
     message: "How can other people contribute to your project?",
   },
 
   {
     type: "input",
-    name: "projectTestInstructions",
+    name: "tests",
     message: "Describe the tests written for your app and how to use them:",
   },
 
@@ -68,12 +68,11 @@ const userQuestions = [
 
   {
     type: "list",
-    name: "projectLicense",
+    name: "license",
     message: "Which license would you like to include for your project?:",
     choices: [
       "MIT",
       "Mozilla",
-      "The Unlicense",
       "Apache"
     ]
   },
@@ -87,7 +86,7 @@ const userQuestions = [
 
 // TODO: Create a function to write README file
 const writeToFile = data => {
-  returnNewPromise((resolve, reject) => {
+  return new Promise((resolve, reject) => {
     fs.writeFile("./utils/README.md", data, err => {
       if (err) {
         reject (err);

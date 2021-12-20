@@ -1,5 +1,5 @@
 # t
-  [![Apache license](https://img.shields.io/badge/license-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
+  [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
   ## Table of Contents
   - [Description](#description)
@@ -21,7 +21,7 @@
   t
 
   ## License
-    This project is covered by the Apache license. 
+    This project is covered by the MIT license. 
     Click the license button at the top of this file to learn more.
 
   ## Contributing
@@ -31,9 +31,9 @@
   t
 
   ## Questions
-  Questions about this project?
-  GitHub: https://github.com/test
-  Email: test
+  Questions about this project? <br/>
+  GitHub: https://github.com/t <br/>
+  Email: t 
 
   ## Credits
-  test
+  t

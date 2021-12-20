@@ -1,5 +1,5 @@
-# Codey-Buddy
-  [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://lbesson.mit-license.org/)
+# tes
+  [![Mozilla license](https://img.shields.io/badge/license-Mozilla-blue.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
 
   ## Table of Contents
   - [Description](#description)
@@ -12,28 +12,28 @@
   - [Credits](#credits)
 
   ## Description
-  Codey Buddy is a coding support tool where users can search YouTube videos and Google search results to find relevant study resources.
+  tes
 
   ## Installation
-  This is an in browser application utilizing API calls. No installation is required.
+  tes
 
   ## Usage
-  Type a coding language into the search bar and select the language you want to research. You can then look at articles or videos of interest and favorite them for viewing later.
+  tes
 
   ## License
-    This project is covered by the MIT license. 
+    This project is covered by the Mozilla license. 
     Click the license button at the top of this file to learn more.
 
   ## Contributing
-  I am not accepting third party contributors at this time.
+  tes
 
   ## Tests
-  There are no tests written for this application.
+  tes
 
   ## Questions
   Questions about this project?
-  GitHub:https://github.com/nparker80
-  Email: najla08@me.com
+  GitHub: https://github.com/test
+  Email: tes
 
   ## Credits
   Najla Parker

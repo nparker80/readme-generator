@@ -1,5 +1,5 @@
-# tes
-  [![Mozilla license](https://img.shields.io/badge/license-Mozilla-blue.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
+# t
+  [![Apache license](https://img.shields.io/badge/license-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
   ## Table of Contents
   - [Description](#description)
@@ -12,28 +12,28 @@
   - [Credits](#credits)
 
   ## Description
-  tes
+  t
 
   ## Installation
-  tes
+  t
 
   ## Usage
-  tes
+  t
 
   ## License
-    This project is covered by the Mozilla license. 
+    This project is covered by the Apache license. 
     Click the license button at the top of this file to learn more.
 
   ## Contributing
-  tes
+  t
 
   ## Tests
-  tes
+  t
 
   ## Questions
   Questions about this project?
   GitHub: https://github.com/test
-  Email: tes
+  Email: test
 
   ## Credits
-  Najla Parker
+  test

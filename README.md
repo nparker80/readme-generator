@@ -2,8 +2,9 @@
 [![MIT License][license-shield]][license-url]
 
 # README-Generator
-
-    <a href="https://nparker80.github.io/readme-generator/">View Demo</a>
+<div>
+   <p>
+    <a href="https://drive.google.com/file/d/19HokreCHoJxbpDbAeG4hHxF5Gci0cSHm/view">View Demo</a>
   </p>
 </div>
 
@@ -30,14 +31,14 @@ SO THAT I can quickly create a professional README for a new project
 - [Node.js](https://nodejs.org/en/)
 - [Javascript](https://www.javascript.com)
 
-###Before attempting to use this project, install the following on your computer:
-*VS Code
-*GitBash
-*Node.js
+### Before attempting to use this project, install the following on your computer:
+* VS Code
+* GitBash
+* Node.js
 
 ### To Install NPM Packages
-*Use the command "npm init-y" to install Node Package Manager
-*Inquirer: Use the command "npm install inquirer" to access npm's inquirer package
+* Use the command "npm init-y" to install Node Package Manager
+* Inquirer: Use the command "npm install inquirer" to access npm's inquirer package
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

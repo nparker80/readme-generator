@@ -63,7 +63,7 @@ Najla Parker - najla08@me.com [![LinkedIn][linkedin-shield]][linkedin-url-naj] [
 
 [contributors-shield]: https://img.shields.io/github/contributors/nparker80/readme-generator.svg?style=for-the-badge
 [contributors-url]: https://github.com/nparker80/readme-generator/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/nparker80/readme-generator.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/nparker80/readme-generator
 [license-url]: https://github.com/nparker80/readme-generator/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url-naj]: https://www.linkedin.com/in/najlaparker/

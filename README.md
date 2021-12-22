@@ -54,7 +54,7 @@ List of Contributors:
 
 ## Contact Info
 
-Najla Parker - najla08@gmail.com [![LinkedIn][linkedin-shield]][linkedin-url-naj] [![GitHub][github-shield]][github-url-naj]
+Najla Parker - najla08@me.com [![LinkedIn][linkedin-shield]][linkedin-url-naj] [![GitHub][github-shield]][github-url-naj]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

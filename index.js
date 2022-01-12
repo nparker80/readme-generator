@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const fs = require("fs");
 const inquirer = require("inquirer");
-const generateMarkdown = require("generateMarkdown.js");
+const generateMarkdown = require("./generateMarkdown.js");
 
 // TODO: Create an array of questions for user input
 const userQuestions = [
@@ -87,7 +87,7 @@ const userQuestions = [
 // TODO: Create a function to write README file
 const writeToFile = data => {
   return new Promise((resolve, reject) => {
-    fs.writeFile("./utils/README.md", data, err => {
+    fs.writeFile("./README.md", data, err => {
       if (err) {
         reject (err);
         return;
